@@ -1,2 +1,2 @@
-# Udacity_TV_Script_Generations
-Generate TV script using recurrent neural networks with LSTM
+# Udacity_TV_Script_Generation
+Generating tv script using recurrent neural networks on a sample movie script
